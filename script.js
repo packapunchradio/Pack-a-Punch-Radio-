@@ -1,7 +1,7 @@
 https://stream-uk1.radiopush.net/stream
 // --------- CONFIG: replace these values ----------
 const STATION_NAME = "PACK A PUNCH RADIO";
-const STREAM_URL = "https://your-stream-url-here/stream"; // <-- Put your Icecast/SHOUTcast stream URL or direct mp3
+const STREAM_URL =  https://stream-uk1.radiopush.net/stream // <-- Put your Icecast/SHOUTcast stream URL or direct mp3
 // If you don't have a stream, add a file named "sample-stream.mp3" to the same folder and set STREAM_URL = "sample-stream.mp3"
 // Formspree: replace with your form id if you want contact form to email you
 // -------------------------------------------------
