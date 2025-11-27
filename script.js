@@ -1,2 +1,1 @@
-const STATION_NAME="PACK A PUNCH RADIO";
-const STREAM_URL="sample-stream.mp3";
+https://stream-uk1.radiopush.net/stream
